@@ -1,0 +1,16 @@
+.color1{
+    background-color:gray ;
+}
+
+.color2{
+    background-color: brown;
+}
+
+.color3{
+    background-color: green;
+}
+
+
+::placeholder{
+    color: brown;
+}

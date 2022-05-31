@@ -209,7 +209,7 @@ function colors() {
     } else if((conc==="7A")||(conc==="8A")) {
         time02.addClass("form-control color3")
     } else {
-        time02.addClass("form-controlcolor1")
+        time02.addClass("form-control color1")
     }
 
     if (conc==="10A") {

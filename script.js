@@ -221,7 +221,7 @@ function colors() {
     } 
     
     if (conc==="11A") {
-        time04.addClass("form-controlcolor2")
+        time04.addClass("form-control color2")
     } else if((conc==="7A")||(conc==="8A")||(conc==="9A") 
     ||(conc=="10A")){ 
         time04.addClass("form-control color3")

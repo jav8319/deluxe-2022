@@ -198,7 +198,7 @@ function colors() {
 
     if (conc==="8A") {
         time01.addClass("form-control color2")
-    } else if((conc=="07A")) {
+    } else if((conc=="7A")) {
         time01.addClass("form-control color3")
     } else {
         time01.addClass("form-controlcolor1")
@@ -206,7 +206,7 @@ function colors() {
 
     if (conc==="9A") {
         time02.addClass("form-control color2")
-    } else if((conc==="07A")||(conc==="08A")) {
+    } else if((conc==="7A")||(conc==="08A")) {
         time02.addClass("form-control color3")
     } else {
         time02.addClass("form-controlcolor1")
